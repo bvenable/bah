@@ -1,5 +1,6 @@
 def wcards():
     return [
+    "A poorly lit public restroom.",
     "A Gypsy curse.",
     "A moment of silence.",
     "A sausage festival.",
@@ -1343,7 +1344,6 @@ def bcards():
     "What caused the citizens of North County to riot?",
     "At the trade deadline, the Cardinals announced their new secret weapon: __________.",
     "St Louis County Police were heavily criticized for their use of __________.",
-    "spif creeped everyone out because of his obsession with __________.",
     "Once again, tadni is complaining because of his sister's involvement with __________.",
     "The latest awareness campaign stunt involves __________.",
     "Top Gear's Jeremy Clarkson recently got blasted by the papers for his comments on __________.",
